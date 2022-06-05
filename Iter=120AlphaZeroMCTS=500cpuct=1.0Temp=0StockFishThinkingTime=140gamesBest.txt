@@ -1,0 +1,606 @@
+
+
+
+####ITERATION####0####ITERATION####
+
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Qa5 2. Qxh7 Qxa2 3. Rxa2 Rxh7 4. Rxa7 Rxh2 5. Rxa8 Rxd2 6. Rxe8 d6 7. Kxd2 d5 8. Ke1 d4 9. Rg8 d3 10. Ke2 dxe2 11. Rf1 exf1=K 12. Rg2 Kxg2# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Qa5 2. Qxh7 Qxa2 3. Rxa2 Rxh7 4. Rxa7 Rxh2 5. Rxa8 Rxd2 6. Rxe8 d6 7. Kxd2 d5 8. Ke1 d4 9. Rg8 d3 10. Ke2 dxe2 11. Rf1 exf1=K 12. Rg2 Kxg2# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Qa5 2. Qxh7 Qxa2 3. Rxa2 Rxh7 4. Rxa7 Rxh2 5. Rxa8 Rxd2 6. Rxe8 d6 7. Kxd2 d5 8. Ke1 d4 9. Rg8 d3 10. Ke2 dxe2 11. Rf1 exf1=K 12. Rg2 Kxg2# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Qa5 2. Qxh7 Qxa2 3. Rxa2 Rxh7 4. Rxa7 Rxh2 5. Rxa8 Rxd2 6. Rxe8 d6 7. Kxd2 d5 8. Ke1 d4 9. Rg8 d3 10. Ke2 dxe2 11. Rf1 exf1=K 12. Rg2 Kxg2# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Qa5 2. Qxh7 Qxa2 3. Rxa2 Rxh7 4. Rxa7 Rxh2 5. Rxa8 Rxd2 6. Rxe8 d6 7. Kxd2 d5 8. Ke1 d4 9. Rg8 d3 10. Ke2 dxe2 11. Rf1 exf1=K 12. Rg2 Kxg2# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Qa5 2. Qxh7 Qxa2 3. Rxa2 Rxh7 4. Rxa7 Rxh2 5. Rxa8 Rxd2 6. Rxe8 d6 7. Kxd2 d5 8. Ke1 d4 9. Rg8 d3 10. Ke2 dxe2 11. Rf1 exf1=K 12. Rg2 Kxg2# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Qa5 2. Qxh7 Qxa2 3. Rxa2 Rxh7 4. Rxa7 Rxh2 5. Rxa8 Rxd2 6. Rxe8 d6 7. Kxd2 d5 8. Ke1 d4 9. Rg8 d3 10. Ke2 dxe2 11. Rf1 exf1=K 12. Rg2 Kxg2# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Qa5 2. Qxh7 Qxa2 3. Rxa2 Rxh7 4. Rxa7 Rxh2 5. Rxa8 Rxd2 6. Rxe8 d6 7. Kxd2 d5 8. Ke1 d4 9. Rg8 d3 10. Ke2 dxe2 11. Rf1 exf1=K 12. Rg2 Kxg2# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Qa5 2. Qxh7 Qxa2 3. Rxa2 Rxh7 4. Rxa7 Rxh2 5. Rxa8 Rxd2 6. Rxe8 d6 7. Kxd2 d5 8. Ke1 d4 9. Rg8 d3 10. Ke2 dxe2 11. Rf1 exf1=K 12. Rg2 Kxg2# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Qa5 2. Qxh7 Qxa2 3. Rxa2 Rxh7 4. Rxa7 Rxh2 5. Rxa8 Rxd2 6. Rxe8 d6 7. Kxd2 d5 8. Ke1 d4 9. Rg8 d3 10. Ke2 dxe2 11. Rf1 exf1=K 12. Rg2 Kxg2# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Qa5 2. Qxh7 Qxa2 3. Rxa2 Rxh7 4. Rxa7 Rxh2 5. Rxa8 Rxd2 6. Rxe8 d6 7. Kxd2 d5 8. Ke1 d4 9. Rg8 d3 10. Ke2 dxe2 11. Rf1 exf1=K 12. Rg2 Kxg2# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Qa5 2. Qxh7 Qxa2 3. Rxa2 Rxh7 4. Rxa7 Rxh2 5. Rxa8 Rxd2 6. Rxe8 d6 7. Kxd2 d5 8. Ke1 d4 9. Rg8 d3 10. Ke2 dxe2 11. Rf1 exf1=K 12. Rg2 Kxg2# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Qa5 2. Qxh7 Qxa2 3. Rxa2 Rxh7 4. Rxa7 Rxh2 5. Rxa8 Rxd2 6. Rxe8 d6 7. Kxd2 d5 8. Ke1 d4 9. Rg8 d3 10. Ke2 dxe2 11. Rf1 exf1=K 12. Rg2 Kxg2# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Qa5 2. Qxh7 Qxa2 3. Rxa2 Rxh7 4. Rxa7 Rxh2 5. Rxa8 Rxd2 6. Rxe8 d6 7. Kxd2 d5 8. Ke1 d4 9. Rg8 d3 10. Ke2 dxe2 11. Rf1 exf1=K 12. Rg2 Kxg2# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Qa5 2. Qxh7 Qxa2 3. Rxa2 Rxh7 4. Rxa7 Rxh2 5. Rxa8 Rxd2 6. Rxe8 d6 7. Kxd2 d5 8. Ke1 d4 9. Rg8 d3 10. Ke2 dxe2 11. Rf1 exf1=K 12. Rg2 Kxg2# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Qa5 2. Qxh7 Qxa2 3. Rxa2 Rxh7 4. Rxa7 Rxh2 5. Rxa8 Rxd2 6. Rxe8 d6 7. Kxd2 d5 8. Ke1 d4 9. Rg8 d3 10. Ke2 dxe2 11. Rf1 exf1=K 12. Rg2 Kxg2# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Qa5 2. Qxh7 Qxa2 3. Rxa2 Rxh7 4. Rxa7 Rxh2 5. Rxa8 Rxd2 6. Rxe8 d6 7. Kxd2 d5 8. Ke1 d4 9. Rg8 d3 10. Ke2 dxe2 11. Rf1 exf1=K 12. Rg2 Kxg2# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Qa5 2. Qxh7 Qxa2 3. Rxa2 Rxh7 4. Rxa7 Rxh2 5. Rxa8 Rxd2 6. Rxe8 d6 7. Kxd2 d5 8. Ke1 d4 9. Rg8 d3 10. Ke2 dxe2 11. Rf1 exf1=K 12. Rg2 Kxg2# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Qa5 2. Qxh7 Qxa2 3. Rxa2 Rxh7 4. Rxa7 Rxh2 5. Rxa8 Rxd2 6. Rxe8 d6 7. Kxd2 d5 8. Ke1 d4 9. Rg8 d3 10. Ke2 dxe2 11. Rf1 exf1=K 12. Rg2 Kxg2# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Qa5 2. Qxh7 Qxa2 3. Rxa2 Rxh7 4. Rxa7 Rxh2 5. Rxa8 Rxd2 6. Rxe8 d6 7. Kxd2 d5 8. Ke1 d4 9. Rg8 d3 10. Ke2 dxe2 11. Rf1 exf1=K 12. Rg2 Kxg2# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Rg8 2. Qxe8 Rxe8 3. Ke2 Rxe2 4. Rhb1 Rxd2 5. a3 Rxh2 6. Ra2 Rxa2 7. a4 Rxa4 8. Ra1 Rxa1# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Rg8 2. Qxe8 Rxe8 3. Ke2 Rxe2 4. Rhb1 Rxd2 5. a3 Rxh2 6. Ra2 Rxa2 7. a4 Rxa4 8. Ra1 Rxa1# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Rg8 2. Qxe8 Rxe8 3. Ke2 Rxe2 4. Rhb1 Rxd2 5. a3 Rxh2 6. Ra2 Rxa2 7. a4 Rxa4 8. Ra1 Rxa1# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Rg8 2. Qxe8 Rxe8 3. Ke2 Rxe2 4. Rhb1 Rxd2 5. a3 Rxh2 6. Ra2 Rxa2 7. a4 Rxa4 8. Ra1 Rxa1# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Rg8 2. Qxe8 Rxe8 3. Ke2 Rxe2 4. Rhb1 Rxd2 5. a3 Rxh2 6. Ra2 Rxa2 7. a4 Rxa4 8. Ra1 Rxa1# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Rg8 2. Qxe8 Rxe8 3. Ke2 Rxe2 4. Rhb1 Rxd2 5. a3 Rxh2 6. Ra2 Rxa2 7. a4 Rxa4 8. Ra1 Rxa1# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Rg8 2. Qxe8 Rxe8 3. Ke2 Rxe2 4. Rhb1 Rxd2 5. a3 Rxh2 6. Ra2 Rxa2 7. a4 Rxa4 8. Ra1 Rxa1# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Rg8 2. Qxe8 Rxe8 3. Ke2 Rxe2 4. Rhb1 Rxd2 5. a3 Rxh2 6. Ra2 Rxa2 7. a4 Rxa4 8. Ra1 Rxa1# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Rg8 2. Qxe8 Rxe8 3. Ke2 Rxe2 4. Rhb1 Rxd2 5. a3 Rxh2 6. Ra2 Rxa2 7. a4 Rxa4 8. Ra1 Rxa1# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Rg8 2. Qxe8 Rxe8 3. Ke2 Rxe2 4. Rhb1 Rxd2 5. a3 Rxh2 6. Ra2 Rxa2 7. a4 Rxa4 8. Ra1 Rxa1# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Rg8 2. Qxe8 Rxe8 3. Ke2 Rxe2 4. Rhb1 Rxd2 5. a3 Rxh2 6. Ra2 Rxa2 7. a4 Rxa4 8. Ra1 Rxa1# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Rg8 2. Qxe8 Rxe8 3. Ke2 Rxe2 4. Rhb1 Rxd2 5. a3 Rxh2 6. Ra2 Rxa2 7. a4 Rxa4 8. Ra1 Rxa1# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Rg8 2. Qxe8 Rxe8 3. Ke2 Rxe2 4. Rhb1 Rxd2 5. a3 Rxh2 6. Ra2 Rxa2 7. a4 Rxa4 8. Ra1 Rxa1# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Rg8 2. Qxe8 Rxe8 3. Ke2 Rxe2 4. Rhb1 Rxd2 5. a3 Rxh2 6. Ra2 Rxa2 7. a4 Rxa4 8. Ra1 Rxa1# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Rg8 2. Qxe8 Rxe8 3. Ke2 Rxe2 4. Rhb1 Rxd2 5. a3 Rxh2 6. Ra2 Rxa2 7. a4 Rxa4 8. Ra1 Rxa1# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Rg8 2. Qxe8 Rxe8 3. Ke2 Rxe2 4. Rhb1 Rxd2 5. a3 Rxh2 6. Ra2 Rxa2 7. a4 Rxa4 8. Ra1 Rxa1# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Rg8 2. Qxe8 Rxe8 3. Ke2 Rxe2 4. Rhb1 Rxd2 5. a3 Rxh2 6. Ra2 Rxa2 7. a4 Rxa4 8. Ra1 Rxa1# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Rg8 2. Qxe8 Rxe8 3. Ke2 Rxe2 4. Rhb1 Rxd2 5. a3 Rxh2 6. Ra2 Rxa2 7. a4 Rxa4 8. Ra1 Rxa1# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Rg8 2. Qxe8 Rxe8 3. Ke2 Rxe2 4. Rhb1 Rxd2 5. a3 Rxh2 6. Ra2 Rxa2 7. a4 Rxa4 8. Ra1 Rxa1# 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[FEN "r2qk2r/p2p3p/8/8/8/8/P2P3P/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[Variant "Antichess"]
+
+1. Qh5 Rg8 2. Qxe8 Rxe8 3. Ke2 Rxe2 4. Rhb1 Rxd2 5. a3 Rxh2 6. Ra2 Rxa2 7. a4 Rxa4 8. Ra1 Rxa1# 1-0
+
